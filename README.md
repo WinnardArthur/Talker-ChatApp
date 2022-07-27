@@ -46,4 +46,4 @@ You may also see any lint errors in the console.
 
 ## Deployment
 
-You can find a demo of Talker-ChatApp at ...
+You can find a demo of Talker-ChatApp at [talker-chatapp.com](https://talker-chatapp.herokuapp.com)
