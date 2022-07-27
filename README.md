@@ -1,4 +1,6 @@
-## To Begin, Register
+# To Begin
+
+## Register
 
 ![Register](./demo/chatApp%20-%20register.PNG)
 
